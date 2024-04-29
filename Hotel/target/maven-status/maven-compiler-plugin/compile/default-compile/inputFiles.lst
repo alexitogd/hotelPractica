@@ -1,0 +1,10 @@
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/model/Client.java
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/model/Room.java
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/exceptions/HotelException.java
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/model/StatRoom.java
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/model/SkillWorker.java
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/model/HotelService.java
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/view/Main.java
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/view/Interprete.java
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/view/Gestor.java
+/home/alex/NetBeansProjects/Hotel/src/main/java/com/mycompany/hotel/model/Worker.java

@@ -1,0 +1,10 @@
+com/mycompany/hotel/model/SkillWorker.class
+com/mycompany/hotel/model/Worker.class
+com/mycompany/hotel/model/Client.class
+com/mycompany/hotel/model/StatRoom.class
+com/mycompany/hotel/model/Room.class
+com/mycompany/hotel/exceptions/HotelException.class
+com/mycompany/hotel/view/Main.class
+com/mycompany/hotel/model/HotelService.class
+com/mycompany/hotel/view/Interprete.class
+com/mycompany/hotel/view/Gestor.class
